@@ -8,3 +8,4 @@
 ?>
 </h1>
 {{ DB::table('Event')->get() }}
+{{-- maja aa gaya --}}
